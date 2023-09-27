@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSalsus
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me salehijavad768@gmail.com
 
